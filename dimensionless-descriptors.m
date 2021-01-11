@@ -6,8 +6,8 @@
   
 % Input row vector with dimensions exponents: [Length   Mass   Time  Current  Temperature   MatterAmount  ... ...]
 % This script outputs the U-terms in a csv file 'U_groups.csv' as input for MAST-ML
-% Very coarse implementation I made, clearly is not very convenient nor efficient and needs improvement  
-% if used with larger amounts of data, which luckily is not our case. 
+% Very coarse implementation, clearly is not very convenient nor efficient and needs improvement  
+% if used with larger amounts of data. 
 % Instances: composition_average, arithemetic_average, max_value,
 % min_value, difference, Element1
  
