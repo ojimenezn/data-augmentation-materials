@@ -1,5 +1,5 @@
 # Dimensionless Descriptors for Materials Informatics
-MATLAB implementation of Buckingham Pi method for generating dimensionless features for applications in Materials Informatics. Code was originally written for use with [MAGPIE (Materials Agnostic Platform for Informatics and Exploration) dataset](https://www.nature.com/articles/npjcompumats201628?report=reader). 
+MATLAB implementation of Buckingham Pi method for data augmentation in Materials Informatics. Code was originally written for use with [MAGPIE (Materials Agnostic Platform for Informatics and Exploration) dataset](https://www.nature.com/articles/npjcompumats201628?report=reader). 
 
 <div align="center">
 <img src="https://github.com/ojimenezn/dimensionless-descriptors/blob/main/images/buckpi-workflow.png" alt="logo"></img>
